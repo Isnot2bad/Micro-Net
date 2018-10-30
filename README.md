@@ -1,7 +1,7 @@
 # Micro-Net
 
 
-**This is the implementation of the models and code in paper:**
+**This is the implementation of the models and code in [paper](https://arxiv.org/abs/1810.11603):**
 ```
 A MINIATURIZED SEMANTIC SEGMENTATION METHOD FOR REMOTE SENSING IMAGE
 
